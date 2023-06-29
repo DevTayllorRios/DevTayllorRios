@@ -1,19 +1,39 @@
-## Olá developers! Eu sou o Tayllor Rios👋
+## Faaaala dev, Luigi Aqui!
 
-### Seja bem vindo!
+<div>
+  
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=LuigiGF&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuigiGF&layout=compact&langs_count=16&theme=great-gatsby"/>
+</div>
+<br>
 
-- 💻Sou estudante de Front-End<br>
-- 👩‍🎓 Estou em busca de uma oportunidade.
-
-# 💻 Learning Technologies
-<img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width: 100%;">
-<img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width: 100%;">
-<img align="center" height="30" width="40" alt="js-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;">
-
-
-# 📊 GitHub Stats:
-<img src="https://camo.githubusercontent.com/c747089f0c3020b80d2e9465e7d4071c227a71c328088c530f8c7c33b3c7527c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4465765461796c6c6f7252696f73267468656d653d68696768636f6e747261737426686964655f626f726465723d66616c736526696e636c7564655f616c6c5f636f6d6d6974733d66616c736526636f756e745f707269766174653d66616c7365266c61796f75743d636f6d70616374" alt="" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevTayllorRios&amp;theme=highcontrast&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" style="max-width: 100%;">
-
-<img src="https://camo.githubusercontent.com/dc0b447d0176c9298d7d6664559f3a987337b877164c93fd79b62e165e4591ec/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4465765461796c6c6f7252696f73267468656d653d68696768636f6e747261737426686964655f626f726465723d66616c736526696e636c7564655f616c6c5f636f6d6d6974733d66616c736526636f756e745f707269766174653d66616c7365" alt="" data-canonical-src="https://github-readme-stats.vercel.app/api?username=DevTayllorRios&amp;theme=highcontrast&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false" style="max-width: 100%;">
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div  align="center"> 
+  <div style="display: inline_block"><br>
+    <img align="left" height="250" alt="coding-time" src="code.gif">
+    <h1 align="center">Melhores Tecnologias <3</h1>
+    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
+   </div>
+    
+  
+  <h1 align="center">Redes Sociais</h1>
+    <a href = "mailto: work.luigi.fonseca@gmail.com">
+      <img width="30" src="gmail.svg">
+    </a>
+    <a href = "https://www.linkedin.com/in/luigi-gottardello-fonseca-44651a205/">
+      <img width="25" src="linkedin.svg">
+    </a>
+    <a href = "https://www.youtube.com/channel/UCd5Ivcm28R1C3fCQKbOx2cg">
+      <img width="35" src="youtube.svg">
+    </a>
+    <a href = "https://www.instagram.com/devparadev/">
+      <img width="25" src="instagram.png">
+    </a>
+</div>
+  
+![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
