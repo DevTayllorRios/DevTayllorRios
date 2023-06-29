@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 💻Sou estudante de Front-End<br>👩‍🎓 Estou a procura de Estágio
 
 # 💻 Tech Stack:
